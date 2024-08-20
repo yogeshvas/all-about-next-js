@@ -19,3 +19,7 @@ npx crate-next-app@latest
 
 - [x] Custom 404 Page not-found.tsx
 - [x] Private Folder \_name
+- [x] Route Groups (auth)
+
+- [x] Layouts
+- [x] Group Layout
