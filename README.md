@@ -1,2 +1,5 @@
--[x] to create a next app
-`npx crate-next-app@latest`
+- [x] to create a next app
+
+```
+npx crate-next-app@latest
+```
